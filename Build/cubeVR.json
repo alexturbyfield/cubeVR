@@ -3,7 +3,7 @@
 "productName": "CubeVRTest",
 "productVersion": "0.1",
 "dataUrl": "cubeVR.data.unityweb",
-"wasmCodeUrl": "cubeVR.wasm.code.unityweb",
+"wasmCodeUrl": "cubeVR.wasm",
 "wasmFrameworkUrl": "cubeVR.wasm.framework.unityweb",
 "graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
